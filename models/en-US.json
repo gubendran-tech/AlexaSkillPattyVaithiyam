@@ -1,0 +1,90 @@
+{
+  "interactionModel": {
+    "languageModel": {
+      "invocationName": "patty vaithiyam",
+      "intents": [
+        {
+          "name": "AMAZON.CancelIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.HelpIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.StopIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.FallbackIntent",
+          "samples": []
+        },
+        {
+          "name": "VaithiyamAvailableListIntent",
+          "samples": [
+            "tell me list of patti vaithiyam",
+            "Please tell me list of patti vaithiyam",
+            "Please tell me list of patti vaithiyam you have",
+            "list of patti vaithiyam",
+            "give me the list of patti vaithiyam",
+            "give me the list of patti vaithiyam available"
+          ],
+          "slots": []
+        },
+        {
+          "name": "VaithiyamForDiabetesIntent",
+          "samples": [
+            "Please tell me home remedy for diabetes mellitus",
+            "Tell me medicine for polyuria in diabetes",
+            "Tell me medicine for increased urination in diabetes",
+            "Tell home remedy for blood sugar control",
+            "Tell herbal remedy for hyperglycemia"
+          ],
+          "slots": []
+        },
+        {
+          "name": "VaithiyamForDryCoughIntent",
+          "samples": [
+            "home remedy for dry cough",
+            "Please tell me home remedy for dry cough.",
+            "Tell medicines for dry cough."
+          ],
+          "slots": []
+        },
+        {
+          "name": "VaithiyamForDiarrheaIntent",
+          "samples": [
+            "Please tell me home remedy for loose stools",
+            "Please tell home remedy for diarrhea",
+            "Please tell me home remedy for dysentery"
+          ],
+          "slots": []
+        },
+        {
+          "name": "VaithiyamForConstipationIntent",
+          "samples": [
+            "Tell me medicine for constipation in children",
+            "Tell me home remedy for childhood constipation"
+          ],
+          "slots": []
+        },
+        {
+          "name": "VaithiyamForNasalBlockIntent",
+          "samples": [
+            "Tell me a home remedy for nasal block and running nose",
+            "Tell me medicine for nasal block in sinusitis"
+          ],
+          "slots": []
+        },
+        {
+          "name": "VaithiyamForFeverIntent",
+          "samples": [
+            "Tell herbal remedy for fever with body ache",
+            "Tell home remedy for fever"
+          ],
+          "slots": []
+        }
+      ]
+    }
+  }
+}

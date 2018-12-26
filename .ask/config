@@ -1,0 +1,32 @@
+{
+  "deploy_settings": {
+    "default": {
+      "skill_id": "amzn1.ask.skill.141c7b93-0227-4f2f-9467-7549160e3781",
+      "merge": {},
+      "resources": {
+        "manifest": {
+          "eTag": "683456c021acb7cd69e13c1135a9779d"
+        },
+        "interactionModel": {
+          "en-IN": {
+            "eTag": "4a47e9dd49c90163282104610933bd7a"
+          },
+          "en-US": {
+            "eTag": "4a47e9dd49c90163282104610933bd7a"
+          }
+        },
+        "lambda": [
+          {
+            "arn": "arn:aws:lambda:us-east-1:282724564275:function:ask-custom-pattyvaithiyam",
+            "functionName": "arn:aws:lambda:us-east-1:282724564275:function:ask-custom-pattyvaithiyam",
+            "awsRegion": "us-east-1",
+            "alexaUsage": [
+              "custom/default"
+            ],
+            "revisionId": "49788700-8d6a-47e9-95f8-59eaa97cdded"
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "manifest": {
+    "publishingInformation": {
+      "locales": {
+        "en-IN": {
+          "summary": "Learn Patty Vaithiyam to get well soon",
+          "examplePhrases": [
+            "Alexa open patty Vaithiyam",
+            "Alexa ask patty Vaithiyam home remedy for dry cough",
+            "Alexa tell me list of patti vaithiyam"
+          ],
+          "keywords": [
+            "pattyvaithiyam",
+            "healthy medicine tips",
+            "natural medicine tips"
+          ],
+          "name": "Patty Vaithiyam",
+          "description": "Ask for Patty Vaithiyam, and learn about what really matters, to keep healthy.\n\nPatty Vaithiyam helps providing whole family guaranteed healthier and stronger.\n\nTo start, just say \"Alexa, launch Patty Vaithiyam\" or \"Alexa, open Patty Vaithiyam\".\n\nAt anytime, you can stop by saying \"Alexa, stop\""
+        },
+        "en-US": {
+          "summary": "Learn Patty Vaithiyam to get well soon",
+          "examplePhrases": [
+            "Alexa open patty Vaithiyam",
+            "Alexa ask patty Vaithiyam home remedy for dry cough",
+            "Alexa tell me list of patti vaithiyam"
+          ],
+          "keywords": [
+            "pattyvaithiyam",
+            "healthy medicine tips",
+            "natural medicine tips"
+          ],
+          "name": "Patty Vaithiyam",
+          "description": "Ask for Patty Vaithiyam, and learn about what really matters, to keep healthy.\n\nPatty Vaithiyam helps providing whole family guaranteed healthier and stronger.\n\nTo start, just say \"Alexa, launch Patty Vaithiyam\" or \"Alexa, open Patty Vaithiyam\".\n\nAt anytime, you can stop by saying \"Alexa, stop\""
+        }
+      },
+      "category": "EDUCATION_AND_REFERENCE"
+    },
+    "apis": {
+      "custom": {
+        "endpoint": {
+          "sourceDir": "lambda/custom",
+          "uri": "ask-custom-pattyvaithiyam"
+        }
+      }
+    },
+    "manifestVersion": "1.0"
+  }
+}
