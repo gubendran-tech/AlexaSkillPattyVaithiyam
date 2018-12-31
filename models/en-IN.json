@@ -22,12 +22,12 @@
         {
           "name": "VaithiyamAvailableListIntent",
           "samples": [
-            "tell me list of patti vaithiyam",
-            "Please tell me list of patti vaithiyam",
-            "Please tell me list of patti vaithiyam you have",
-            "list of patti vaithiyam",
-            "give me the list of patti vaithiyam",
-            "give me the list of patti vaithiyam available"
+            "tell me list of patty vaithiyam",
+            "Please tell me list of patty vaithiyam",
+            "Please tell me list of patty vaithiyam you have",
+            "list of patty vaithiyam",
+            "give me the list of patty vaithiyam",
+            "give me the list of patty vaithiyam available"
           ],
           "slots": []
         },
